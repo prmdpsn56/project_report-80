@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Project Report 80%
 
-You can use the [editor on GitHub](https://github.com/prmdpsn56/project_report-80/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Our team is working on the project and is the testing phase with the database and other components.We have made the databse in mysql and using php as the backend.We were using react (using react cdn and react material UI cdn),html,css,bootstrap and fusion charts using react.We have built our datbase in mysql and we are experiencing problems integration the php backend with the react as a front end,So have using html,css,bootstrap and fusion charts as front-end now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Things done so far
+1.Database design and development.
+2.Database integration with php as backend.
+3.Data visualisation using php and fusion charts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Demo Dashboard built using react materil UI,Re-charts using create-react-app-package
 
-```markdown
-Syntax highlighted code block
+![capture](https://user-images.githubusercontent.com/41308248/48298273-8f363f80-e46f-11e8-84e1-30d4d2480cd1.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+### Code Snippets
 
-- Bulleted
-- List
+![1](https://user-images.githubusercontent.com/41308248/48298296-1be0fd80-e470-11e8-9c23-080cefda9585.PNG)
 
-1. Numbered
-2. List
+![2](https://user-images.githubusercontent.com/41308248/48298297-1be0fd80-e470-11e8-8d02-03f1aafd0655.PNG)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prmdpsn56/project_report-80/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
